@@ -9,17 +9,17 @@ h1{
 
 
 .reto1 .col{
-     background-color:darkseagreen;
+     background-color:rgb(132, 218, 132);
      border: black solid 1px;
 }
 
 .reto2 .col{
-    background-color:burlywood;
+    background-color:rgb(248, 173, 74);
     border: black solid 1px;
 }
 
 .reto3 .col{
-    background-color: firebrick;
+    background-color: rgb(240, 130, 216);
     color: white;
     border: black solid 1px;
 }
